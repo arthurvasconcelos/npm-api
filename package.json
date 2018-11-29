@@ -24,7 +24,7 @@
     "JSONStream": "^1.2.1",
     "base": "^0.11.1",
     "base-option": "^0.8.4",
-    "base-plugins": "^0.4.13",
+    "base-plugins": "^1.0.0",
     "clone-deep": "^0.2.4",
     "co": "^4.6.0",
     "data-store": "^0.16.1",
