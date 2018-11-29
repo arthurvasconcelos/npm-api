@@ -23,7 +23,7 @@
   "dependencies": {
     "JSONStream": "^1.3.5",
     "base": "^0.11.1",
-    "base-option": "^0.8.4",
+    "base-option": "github:arthurvasconcelos/base-option",
     "base-plugins": "^1.0.0",
     "clone-deep": "^0.2.4",
     "co": "^4.6.0",
